@@ -3,7 +3,7 @@ spring:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:tcp://localhost/~/e-commerce
     username: sa
-    password: '{cipher}b63eb4f798f06f73690cf814dd8204c4b05d9c80e9aea12656dfc2db556ef703'
+    password: '{cipher}b63eb4f798f06f73690cf814dd8204c4b05d9c80e9aea12656dfc2db556ef703_wrong'
 
 token:
   expiration_time: 86400000
