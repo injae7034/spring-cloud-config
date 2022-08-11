@@ -3,7 +3,7 @@ spring:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:tcp://localhost/~/e-commerce;DB_CLOSE_ON_EXIT=FALSE;AUTO_RECONNECT=TRUE;AUTO_SERVER=TRUE
     username: sa
-    password: 
+    password: '{cipher}AQAFpPdFZeQZJETksqwsQi60ccSKRmEt3mSop+RZuKqZr/dsEN9sNjBlARkBSe5N5Sv1gVQRvKueQIJuLjBzuZy2rXtvZ49nfRhz0z6Tq5Qf5ulR/ekJqMxJv36O50yKpkYa0eWremNsGNmRoDWXXNTszHwbun8KRstzRr9cV12VhLLz5TFJ8yj3NeEFl93sDY88RTNSiWxQz/dA4wpIeFCi69qfN+/nC1pokoVGB00RC0++OwWvqahDKL1+gkZup7DNuMsN0dXcRBfn9FIuNEEf5R9RrSjmFIHPBaQpu52ZoI8M9bP6+gGDu1WJI++VjwgP57yHiLN+qgLeIPRwO9EHK8ZEMyAEN3Thjjx2+rOWdPys7sMd9pcEDFY9spPVREI='
 
 token:
   expiration_time: 86400000
